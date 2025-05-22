@@ -12,3 +12,5 @@ avant chaque git commit il faut git add.
 
 Day 1: Docker
 Day 2: Git
+
+Merci pour votre attention 
