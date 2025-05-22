@@ -1,3 +1,14 @@
 Séance sur Git  et Docker à l'ENSI
 
 Les commandes de base GIT : 
+- git init
+- git add .
+- git commit
+- git log
+- git status
+
+
+avant chaque git commit il faut git add.
+
+Day 1: Docker
+Day 2: Git
