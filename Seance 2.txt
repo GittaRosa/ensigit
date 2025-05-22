@@ -1,1 +1,3 @@
 Séance sur Git  et Docker à l'ENSI
+
+Les commandes de base GIT : 
